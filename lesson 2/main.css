@@ -1,0 +1,28 @@
+body,html {
+    background: navajowhite;
+    scroll-behavior: smooth;
+}
+h1 {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: pink;
+}
+img {
+    border: 10px solid black;
+}
+li {
+    font-size: 30px;
+}
+.bismark {
+    color: blueviolet;
+    text-align: justify;
+    font-size: 30px;
+}
+.tirpiz {
+    color: brown;
+}

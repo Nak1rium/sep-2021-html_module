@@ -1,0 +1,45 @@
+body , html {
+    margin: 0;
+    background: navajowhite;
+    scroll-behavior: smooth;
+}
+h1 {
+   text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: pink;
+}
+.imgone {
+    display: flex;
+    justify-content: center;
+}
+img {
+    border: 10px solid black;
+    border-radius: 20px;
+    box-shadow: 60px -16px 150px black;
+}
+.htwo {
+    font-size: 20px;
+    text-align: center;
+}
+.bismark {
+    margin: 10px 100px 10px 100px ;
+    color: #381c69;
+    text-align: justify;
+    font-size: 30px;
+}
+.tirpiz {
+    margin: 10px 100px 10px 100px;
+    width: auto;
+    height: auto;
+    border: 5px solid deeppink;
+    border-radius: 50px;
+    color: brown;
+    background: pink;
+    padding: 10px 10px 10px 10px;
+    font-size: 30px;
+}
