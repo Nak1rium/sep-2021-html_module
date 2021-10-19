@@ -1,0 +1,45 @@
+body, head {
+    margin: 0;
+}
+
+.header {
+    width: 600px;
+    height: 150px;
+    background: aqua;
+}
+
+.menu {
+    width: 200px;
+    height: 400px;
+    background: blue;
+}
+
+.oi {
+    display: flex;
+}
+
+.fatherofposts {
+    width: 400px;
+    height: 400px;
+    background: chocolate;
+}
+
+.post {
+    width: 400px;
+    height: 200px;
+    background: chartreuse;
+}
+
+.post2 {
+    width: 400px;
+    height: 200px;
+    background: deeppink;
+}
+
+.footer {
+    width: 600px;
+    height: 150px;
+    background: darkblue;
+}
+
+

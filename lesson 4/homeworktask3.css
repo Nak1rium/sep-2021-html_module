@@ -1,0 +1,26 @@
+body , head {
+    margin: 0;
+}
+.widgets {
+    width: 600px;
+    height: 200px;
+    background: darkblue;
+    margin: 0px 0px 5px 0px;
+}
+.trwidgets {
+    width: 600px;
+    height: 160px;
+    display: flex;
+    justify-content: space-between;
+}
+.wig {
+    width: 150px;
+    height: 150px;
+    background: deeppink;
+}
+.contact {
+    width: 600px;
+    height: 300px;
+    background: blueviolet;
+    margin: 5px 0px 0px 0px;
+}
