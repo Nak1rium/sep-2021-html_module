@@ -1,0 +1,41 @@
+body , head {
+    margin: 0;
+}
+.h {
+  width: 600px;
+  height: 100px;
+    background: yellow;
+}
+.get {
+    width: 600px;
+    height: 300px;
+    background: deeppink;
+    display: flex;
+}
+.mi {
+    width: 450px;
+    height: 300px;
+    background: #381c69;
+    display: flex;
+    flex-wrap: wrap;
+}
+.me {
+    width: 450px;
+    height: 150px;
+    background: chartreuse;
+}
+.ni {
+    width: 150px;
+    height: 150px;
+    background: blue ;
+}
+.i {
+    width: 150px;
+    height: 150px;
+    background: #8e8edc;
+}
+.ni {
+    width: 150px;
+    height: 150px;
+    background: #1d1d48;
+}

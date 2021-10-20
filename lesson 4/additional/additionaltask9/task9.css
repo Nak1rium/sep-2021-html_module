@@ -1,0 +1,414 @@
+body, head {
+    margin: 0;
+    background: red;
+}
+
+.headd {
+    width: 600px;
+    height: 100px;
+    margin: 0 auto;
+    background: #bdbdbd;
+    display: flex;
+}
+
+.kula {
+    width: 25%;
+    height: 100px;
+    background: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainkula {
+    width: 60px;
+    height: 60px;
+    background: gray;
+    border-radius: 50%;
+}
+
+.for {
+    width: 75%;
+    height: 100px;
+    background: darkgray;
+    display: flex;
+    justify-content: space-around;
+}
+
+.defolt {
+    width: 60px;
+    height: 15px;
+    background: gray;
+    margin-top: 55px;
+    border-radius: 5px;
+}
+
+.herro {
+    width: 600px;
+    height: 350px;
+    background: darkgray;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.herp {
+    width: 600px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.het {
+    width: 240px;
+    height: 25px;
+    background: gray;
+    border-radius: 5px;
+    margin-top: 80px;
+
+}
+.hett {
+  width: 300px;
+    height: 25px;
+    background: gray;
+    border-radius: 5px;
+    margin-top: 7px;
+}
+
+.hepr {
+    width: 600px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pr {
+    width: 200px;
+    height: 35px;
+    background: white;
+    border-radius: 40px;
+    margin-left: 60px;
+}
+.he {
+   width: 90px;
+    height: 40px;
+    background: gray;
+    border-radius: 50px;
+}
+
+.destinations {
+    width: 600px;
+    height: 140px;
+    background: white;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dbig {
+    width: 360px;
+    height: 25px;
+    background: gray;
+    border-radius: 5px;
+}
+
+.dsmall {
+    width: 300px;
+    height: 15px;
+    background: darkgray;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.dsmaller {
+    width: 260px;
+    height: 15px;
+    background: darkgray;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.dmax {
+    width: 600px;
+    height: 460px;
+    background: white;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ot {
+    width: 600px;
+    height: 150px;
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.sss {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dudu {
+    width: 120px;
+    height: 15px;
+    background: gray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.dud {
+    width: 100px;
+    height: 7px;
+    background: gray;
+    border-radius: 5px;
+}
+
+.imeraldo {
+    width: 200px;
+    height: 150px;
+    background: darkgray;
+    margin-right: 5px;
+}
+
+.imeraldoo {
+    width: 200px;
+    height: 150px;
+    background: darkgray;
+    margin-right: 5px;
+}
+
+.imeraldooo {
+    width: 200px;
+    height: 150px;
+    background: darkgray;
+}
+
+.tt {
+    width: 600px;
+    height: 150px;
+    display: flex;
+}
+
+.tto {
+    width: 400px;
+    height: 150px;
+    background: darkgray;
+    margin-right: 5px;
+}
+
+.ttt {
+    width: 200px;
+    height: 150px;
+    background: darkgray;
+}
+
+.ttr {
+    width: 600px;
+    height: 150px;
+    display: flex;
+    margin-top: 5px;
+}
+
+.ttro {
+    width: 200px;
+    height: 150px;
+    background: darkgray;
+    margin-right: 5px;
+}
+
+.ttrt {
+    width: 400px;
+    height: 150px;
+    background: darkgray;
+}
+
+.offers {
+    width: 600px;
+    height: 500px;
+    background: white;
+    margin: 0 auto;
+    display: flex;
+}
+
+.content {
+    width: 260px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.con {
+    width: 240px;
+    height: 110px;
+    background: darkgray;
+    margin: 5px 5px 5px 10px;
+}
+
+.cono {
+    width: 240px;
+    height: 110px;
+    background: darkgray;
+    margin: 5px 5px 5px 10px;
+}
+
+.cont {
+    width: 240px;
+    height: 110px;
+    background: darkgray;
+    margin: 5px 5px 5px 10px;
+}
+
+.contr {
+    width: 240px;
+    height: 110px;
+    background: darkgray;
+    margin: 5px 5px 5px 10px;
+}
+
+.pil {
+    width: 340px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ofrs {
+    width: 340px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bub {
+    width: 340px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bubb {
+    width: 200px;
+    height: 15px;
+    background: darkgray;
+    border-radius: 10px;
+    margin: 10px 0px 5px 0px;
+}
+
+.bubbb {
+    width: 160px;
+    height: 10px;
+    background: darkgray;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.bubbbb {
+    width: 100px;
+    height: 7px;
+    background: darkgray;
+    border-radius: 10px;
+}
+
+.beb {
+    width: 340px;
+    height: 40px;
+}
+
+.bebb {
+    width: 100px;
+    height: 12px;
+    background: darkgray;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.footerone {
+    width: 600px;
+    height: 150px;
+    margin: 0 auto;
+    background: darkgray;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: flex;
+}
+
+.ffor {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ok {
+    width: 120px;
+    height: 10px;
+    background: gray;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.okk {
+    width: 100px;
+    height: 7px;
+    background: gray;
+    border-radius: 20px;
+    margin-top: 7px;
+    margin-left: 25px;
+
+}
+
+.mad {
+    width: 150px;
+    height: 47px;
+}
+
+.bob {
+    width: 100px;
+    height: 17px;
+    background: gray;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-left: 10px;
+
+}
+
+.cugel {
+    width: 150px;
+    height: 40px;
+    display: flex;
+}
+
+.cugelo {
+    width: 27px;
+    height: 27px;
+    background: gray;
+    border-radius: 50%;
+    margin-left: 13px;
+}
+
+.cugeloo {
+    width: 27px;
+    height: 27px;
+    background: gray;
+    border-radius: 50%;
+    margin-left: 7px;
+}
+
+.cugelooo {
+    width: 27px;
+    height: 27px;
+    background: gray;
+    border-radius: 50%;
+    margin-left: 7px;
+}
+

@@ -1,0 +1,72 @@
+body , head {
+    margin: 0;
+}
+.head {
+    width: 400px;
+    height: 50px;
+    background: #7575c2;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+.mm {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+}
+.hero {
+    width: 150px;
+    height: 400px;
+}
+.heroo {
+    width: 150px;
+    height: 150px;
+    background: purple;
+    margin-bottom: 5px;
+}
+.sidebar {
+    width: 150px;
+    height: 250px;
+    background: greenyellow;
+}
+.mc {
+    width: 250px;
+    height: 400px;
+    margin-left: 5px;
+}
+.mainc {
+    width: 245px;
+    height: 250px;
+    background: orange;
+}
+.extra {
+    width: 245px;
+    height: 150px;
+    background: gray;
+    margin-top: 5px;
+}
+.ri {
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 10px;
+}
+.related {
+    width: 250px;
+    height: 100px;
+    background: green;
+}
+.posts {
+    width: 150px;
+    height: 100px;
+    background: pink;
+    margin-left: 5px;
+}
+.foot {
+    width: 400px;
+    height: 50px;
+    margin: 0 auto;
+    background: orange;
+    margin-top: 5px;
+}
