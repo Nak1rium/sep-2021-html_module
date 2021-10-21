@@ -1,0 +1,337 @@
+body, head {
+    margin: 0;
+    background: black;
+}
+
+.margin0auto {
+    margin: 0 auto;
+}
+
+.wid600 {
+    width: 500px;
+}
+
+.bcgray {
+    background: darkgray;
+}
+
+.bcdarkblue {
+    background: #1d1d48;
+}
+
+.bcblueviolet {
+    background: blueviolet;
+}
+
+.displayflex {
+    display: flex;
+}
+
+.bradius10 {
+    border-radius: 10px;
+}
+
+.bradius5 {
+    border-radius: 5px;
+}
+
+.bradius1 {
+    border-radius: 1px;
+}
+
+.columandcenter {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin-left50px {
+    margin-left: 50px;
+}
+
+.margin-left20px {
+    margin-left: 20px;
+}
+
+.margin-left8px {
+    margin-left: 8px;
+}
+
+.margin-top4px {
+    margin-top: 4px;
+}
+
+.margintop10 {
+    margin-top: 10px;
+}
+
+.marginbot13px {
+    margin-bottom: 13px;
+}
+
+header {
+    height: 50px;
+}
+
+.logoblock {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 70px;
+    height: 25px;
+}
+
+.searchingmenublock {
+    width: 400px;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.searchingmenu {
+    width: 20px;
+    height: 20px;
+    margin-right: 60px;
+    margin-top: 5px;
+}
+
+.menu {
+    width: 17px;
+    height: 3px;
+}
+
+.marginbot3px {
+    margin-bottom: 3px;
+}
+
+.subheader {
+    height: 200px;
+    position: relative;
+
+
+}
+
+.textboxcontainer {
+    margin-bottom: 10px;
+}
+
+.textbox {
+    width: 200px;
+    height: 10px;
+
+}
+
+.text {
+    width: 30px;
+    height: 5px;
+}
+
+.bigtext {
+    width: 60px;
+    height: 5px;
+}
+
+.minitext {
+    width: 20px;
+    height: 2px;
+}
+
+.button {
+    width: 60px;
+    height: 20px;
+}
+
+.boxcontainer {
+    width: 300px;
+    height: 80px;
+    justify-content: space-around;
+    position: absolute;
+    bottom: -40px;
+}
+
+.box {
+    width: 80px;
+    height: 80px;
+}
+
+.headingcontainer {
+    height: 50px;
+}
+
+.headingbox {
+    width: 80px;
+    height: 10px;
+    margin-top: 7px;
+}
+
+.heading {
+    width: 45px;
+    height: 5px;
+    margin-left: 3px;
+}
+
+.headingsmall {
+    width: 25px;
+    height: 5px;
+    margin-left: 7px;
+}
+
+.main {
+    height: 80px;
+}
+
+.mainsmall {
+    height: 40px;
+}
+
+.containerbox {
+    width: 400px;
+    height: 80px;
+    justify-content: space-around;
+}
+
+.underboxtextcontaner {
+    width: 400px;
+    height: 20px;
+}
+
+.underboxtext {
+    width: 100px;
+    height: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.unboxtext {
+    width: 40px;
+    height: 4px;
+}
+
+.unboxtextsmall {
+    width: 20px;
+    height: 4px;
+    margin-left: 4px;
+}
+
+.headinginmaincontainer {
+    height: 20px;
+}
+
+.mainwithpictures {
+    height: 100px;
+    justify-content: space-around;
+}
+
+.mainwithtext {
+    height: 100px;
+    justify-content: space-around;
+}
+
+.rectangular {
+    width: 200px;
+    height: 100px;
+}
+
+.containerform {
+    width: 200x;
+    height: 100px;
+}
+
+.bigform {
+    width: 150px;
+    height: 10px;
+}
+
+.form {
+    width: 200px;
+    height: 7px;
+}
+
+.mainendbox {
+    height: 125px;
+}
+
+.mainend {
+    width: 350px;
+    height: 80px;
+    justify-content: space-around;
+}
+
+.picture {
+    width: 105px;
+    height: 80px;
+}
+
+.circlebox {
+    width: 180px;
+    height: 125px;
+
+}
+
+.circle {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    margin-left: 80px;
+}
+
+.txtcontainer {
+    width: 320px;
+    height: 125px;
+
+}
+
+.txtbox {
+    width: 200px;
+    height: 7px;
+    margin-right: 100px;
+}
+
+.maintxt {
+    width: 40px;
+    height: 7px;
+}
+
+.txt {
+    width: 30px;
+    height: 4px;
+
+}
+
+footer {
+    height: 100px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.cubebox {
+    width: 100px;
+    height: 20px;
+    justify-content: space-around;
+}
+
+.links {
+    width: 120px;
+    height: 7px;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+
+.cube {
+    width: 20px;
+    height: 20px;
+}
+
+.linkstxt {
+    width: 20px;
+    height: 3px;
+}
+
+
