@@ -1,0 +1,286 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--grey);
+}
+
+:root {
+    --grey: #ced8e1;
+    --purple: #6964e2;
+    --black: #102b3e;
+}
+
+.margin0auto {
+    margin: 0 auto;
+}
+
+.bc__grey {
+    background: var(--grey);
+}
+
+.bc__purple {
+    background: var(--purple);
+}
+
+.bc__black {
+    background: var(--black);
+}
+
+.some__links {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-bottom: 5px;
+    padding-right: 200px;
+    background: var(--grey);
+}
+
+.some__links div {
+    color: var(--purple);
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+header {
+    width: 100%;
+    height: 200px;
+    background: var(--grey);
+    display: flex;
+
+}
+
+.box__logo {
+    width: 35%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 35%;
+    height: 60%;
+    background: var(--black);
+    border-radius: 20px;
+    margin-bottom: 5%;
+    margin-left: 10%;
+}
+
+.box__menu {
+    width: 65%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.menu {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+    color: var(--purple);
+    font-size: 40px;
+    margin-right: 8%;
+}
+
+.sub__header {
+    width: 100%;
+    height: 700px;
+    background: var(--black);
+    display: inline-flex;
+    align-items: center;
+    padding-left: 12%;
+}
+
+.content__box {
+    width: 30%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+}
+
+.content_name {
+    font-size: 60px;
+    color: var(--purple);
+    margin-top: 30px;
+}
+
+.some__info {
+    font-size: 35px;
+    color: var(--purple);
+    margin-top: 20px;
+}
+
+.button {
+    width: 200px;
+    height: 55px;
+    background: var(--purple);
+    border-radius: 30px;
+    margin-top: 40px;
+}
+
+.header__main {
+    width: 100%;
+    height: 100px;
+    background: var(--grey);
+    display: flex;
+}
+
+.header__main__text {
+    width: 50%;
+    height: 100%;
+    font-size: 45px;
+    color: var(--black);
+    display: flex;
+    align-items: flex-end;
+    margin-left: 320px;
+}
+
+.main_info {
+    width: 100%;
+    height: 1800px;
+    background: var(--grey);
+    display: flex;
+}
+
+.pictures_box {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.pictures {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.rectangular {
+    width: 60%;
+    height: 400px;
+    background: var(--purple);
+    margin-left: 310px;
+    border-radius: 30px;
+}
+
+.navigation {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navigation_content {
+    width: 50%;
+    height: 20%;
+    margin-left: 80px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 250px;
+}
+
+.navigation_box {
+    width: 55px;
+    height: 55px;
+    background: var(--purple);
+    border-radius: 10px;
+}
+
+.info {
+    width: 1000px;
+    height: 100%;
+    display: flex;
+}
+
+.big__contaiter {
+    width: 400px;
+    height: 1300px;
+}
+
+.conteiner {
+    width: 200px;
+    height: 20%;
+    margin-top: 45px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: var(--purple);
+    border-radius: 20px;
+}
+
+.text__container {
+    width: 500px;
+    height: 1500px;
+    margin-top: 45px;
+}
+
+.box__info {
+    width: 100%;
+    height: 20%;
+    color: var(--black);
+    font-size: 30px;
+}
+
+.head {
+    width: 100%;
+    height: 50px;
+    background: var(--grey);
+    color: var(--black);
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.cubs__box {
+    width: 100%;
+    height: 1200px;
+    background: var(--grey);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__cubs {
+    width: 1400px;
+    height: 850px;
+}
+
+.cubs {
+    width: 1400px;
+    height: 50%;
+    display: flex;
+}
+
+.cub {
+    width: 30%;
+    height: 100%;
+    background: var(--black);
+    margin-left: 10px;
+}
+
+.big_cub {
+   width: 70%;
+    height: 100%;
+    background: var(--purple);
+    margin-left: 10px;
+}
+.margintop10px {
+    margin-top: 10px;
+}
+
