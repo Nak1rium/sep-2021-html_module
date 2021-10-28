@@ -1,0 +1,50 @@
+@media screen and (max-width:375px) {
+    .wrapper {
+        width: 375px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .header_top {
+        padding-top: 20px;
+    }
+    .header_menu {
+        display: none;
+    }
+    .header_logo img {
+        width: 50px;
+    }
+    .burger_menu {
+        display: flex;
+    }
+    .header_heading {
+       margin-top: 300px;
+    }
+    .header_heading h2 {
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 34px;
+        color: #D67E35;
+        margin-left: 35px;
+    }
+
+    .header_heading h1 {
+        font-weight: normal;
+        font-size: 40px;
+        line-height: 46px;
+        color: #D67E35;
+        margin-left: 30px;
+    }
+
+    .header_heading p {
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 20px;
+        color: #FFFFFF;
+    }
+    .content_box {
+        display: none;
+    }
+    .header_heading_button {
+        margin-left: 120px;
+    }
+}

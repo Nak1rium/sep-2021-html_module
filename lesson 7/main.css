@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 1440px;
+    margin: 0 auto;
+
+    padding-left: 165px;
+    padding-right: 165px;
+}
+
+header {
+    height: 800px;
+    background: url("./images/hero image.png") no-repeat center/cover;
+}
+
+.header_top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.header_menu {
+    padding-top: 24px;
+    display: flex;
+}
+
+.header_contact {
+    display: flex;
+    flex-wrap: wrap;
+    width: 210px;
+    padding-left: 34px;
+    border-left: 2px solid #ffff;
+}
+
+.text {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+.header_contact img {
+    height: 25px;
+    width: 25px;
+}
+
+.phone_number {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    margin-left: 5px;
+
+    color: #FFFFFF;
+}
+
+.header_button {
+    margin-top: 10px;
+    padding-left: 30px;
+}
+
+.header_heading {
+    margin-top: 203px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header_heading h2 {
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 57px;
+    color: #D67E35;
+    margin-left: 35px;
+}
+
+.header_heading h1 {
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 92px;
+    color: #D67E35;
+}
+
+.header_heading p {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+.container_box {
+    display: flex;
+    column-gap: 8px;
+    margin-left: 110px;
+    margin-top: 12px;
+}
+.content_box {
+    width: 61px;
+    height: 2px;
+    background: #FFFFFF;
+    margin-top: 10px;
+}
+.header_heading_button {
+    margin-left: 199px;
+}
+.burger_menu {
+    display: none;
+    flex-direction: column;
+    row-gap: 4px;
+}
+.burger_menu div {
+    width: 31px;
+    height: 3px;
+    background: #FF7400;
+}
